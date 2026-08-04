@@ -23,8 +23,8 @@ Follow these steps to run the app locally:
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/flutter-main-dart.git
-   cd flutter-main-dart
+   git clone https://github.com/azlanabdulla/aster-lend.git
+   cd aster-lend
    ```
 3. **Get Flutter Dependencies**
    ```bash
